@@ -38,9 +38,10 @@ The Alia platform features compact, versatile digital oscillators designed for E
 
 ### Effects and Processing
 - **Filterbank**
-  - Developer: [TBD]
+  - Developer: [ericxgao]
   - Description: Filter bank processor
-  - Source: [Reddit Thread](https://www.reddit.com/r/modular/comments/[...]/filterbank_firmware/)
+  - Docs: [Reddit Thread](https://www.reddit.com/r/modular/comments/1gx2rsg/try_a_filterbank_versio_firmware/)
+  - Download: [Google Drive](https://drive.google.com/drive/folders/1TymSYNRyQrrKOXaNKrDPh3e37AdEoyjc?usp=drive_link)
 
 - **Tapeo Versio**
   - Developer: onoma2
@@ -85,9 +86,10 @@ The Alia platform features compact, versatile digital oscillators designed for E
 
 ### Synthesis and Sequencing
 - **Rings Versio**
-  - Developer: [TBD]
+  - Developer: [ericxgao]
   - Description: Port of Mutable Instruments Rings
   - Source: [Reddit Thread](https://www.reddit.com/r/modular/comments/[...]/ported_it/)
+  - Download: [Google Drive](https://drive.google.com/drive/folders/1Reuhyh5iviwuRQ8M9sMCcs2WmEftjPLU?usp=sharing)
 
 - **Acidus Versio**
   - Developer: [TBD]
