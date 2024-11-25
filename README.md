@@ -46,7 +46,9 @@ The Alia platform features compact, versatile digital oscillators designed for E
 - **Megatron Versio**
   - Developer: [TBD]
   - Description: Monotron-inspired delay
-  - Source: [ModWiggler Thread](https://modwiggler.com/forum/viewtopic.php?t=282911)
+  - Download/Manual: [Google Drive](https://drive.google.com/file/d/13n_zqj1rz1h7niZOHWAtqhraHCXs4_jb/view?usp=share_link)
+  - Discuss: [ModWiggler Thread](https://modwiggler.com/forum/viewtopic.php?t=282911)
+  
 
 - **Campestria Versio**
   - Developer: [TBD]
