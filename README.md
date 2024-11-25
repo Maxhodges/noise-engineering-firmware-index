@@ -1,4 +1,4 @@
-# noise-engineering-firmware-index
+# Noise Engineering Firmware Index
 A comprehensive index of firmware available for Noise Engineering's Versio and Alia platforms.
 
 ## Description
