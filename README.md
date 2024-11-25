@@ -110,18 +110,15 @@ The Alia platform features compact, versatile digital oscillators designed for E
 - Platform: Versio | Alia
 - Developer:
 - Description:
+- Product Page:
 - Download Link:
-- Original Release Date (Optional):
-- Installation Instructions (Optional)
 
 ## Corrections
 Please submit a pull request with any additions or corrections. Include:
 1. Firmware name and developer
 2. Brief description of functionality
 3. Download link/source
-4. Version information
-5. Hardware compatibility
-6. Any special installation notes
+
 
 ## License
 MIT License
