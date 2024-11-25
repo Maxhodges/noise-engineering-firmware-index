@@ -55,9 +55,11 @@ The Alia platform features compact, versatile digital oscillators designed for E
   - Source: [ModWiggler Thread](https://modwiggler.com/forum/viewtopic.php?t=282590)
 
 - **Multi Versio**
-  - Developer: [TBD]
+  - Developer: FluffyAudio
   - Description: Multi-effects processor
-  - Source: [ModWiggler Thread](https://modwiggler.com/forum/viewtopic.php?t=249058)
+  - Download: [Dropbox](https://www.dropbox.com/s/9z1dyfbwr44ngku/MultiEffect_0.2.bin?dl=0)
+  - Discuss: [ModWiggler Thread](https://modwiggler.com/forum/viewtopic.php?t=249058)
+
 
 ### Loopers and Delays
 - **Triwalkma Versio**
