@@ -30,11 +30,6 @@ The Alia platform features compact, versatile digital oscillators designed for E
 
 
 ## Versio Third-Party Firmware
-# noise-engineering-firmware-index
-
-[Previous sections remain the same...]
-
-## Third-Party Firmware
 
 ### Effects and Processing
 - **Filterbank**
