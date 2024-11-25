@@ -33,7 +33,7 @@ The Alia platform features compact, versatile digital oscillators designed for E
 
 ### Effects and Processing
 - **Filterbank**
-  - Developer: [ericxgao]
+  - Developer: ericxgao
   - Description: Filter bank processor
   - Docs: [Reddit Thread](https://www.reddit.com/r/modular/comments/1gx2rsg/try_a_filterbank_versio_firmware/)
   - Download: [Google Drive](https://drive.google.com/drive/folders/1TymSYNRyQrrKOXaNKrDPh3e37AdEoyjc?usp=drive_link)
@@ -44,7 +44,7 @@ The Alia platform features compact, versatile digital oscillators designed for E
   - Source: [GitHub](https://github.com/onoma2/TapeoVersio)
 
 - **Megatron Versio**
-  - Developer: [joel.gilardini]
+  - Developer: joel.gilardini
   - Description: Monotron-inspired delay
   - Download/Manual: [Google Drive](https://drive.google.com/file/d/13n_zqj1rz1h7niZOHWAtqhraHCXs4_jb/view?usp=share_link)
   - Discuss: [ModWiggler Thread](https://modwiggler.com/forum/viewtopic.php?t=282911)
@@ -82,7 +82,7 @@ The Alia platform features compact, versatile digital oscillators designed for E
 
 ### Synthesis and Sequencing
 - **Rings Versio**
-  - Developer: [ericxgao]
+  - Developer: ericxgao
   - Description: Port of Mutable Instruments Rings
   - Source: [Reddit Thread](https://www.reddit.com/r/modular/comments/[...]/ported_it/)
   - Download: [Google Drive](https://drive.google.com/drive/folders/1Reuhyh5iviwuRQ8M9sMCcs2WmEftjPLU?usp=sharing)
