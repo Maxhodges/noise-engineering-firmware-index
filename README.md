@@ -79,7 +79,6 @@ Please maintain the existing format and include all relevant information in the 
 - [Noise Engineering Official Site](https://noiseengineering.us)
 - [Versio Development Documentation](https://noiseengineering.us/pages/versio-architecture)
 - [Versio Development Guide](https://noiseengineering.us/pages/versio-dev-guide)
-- [Community Forum](https://forum.noiseengineering.us)
 
 ## License
 MIT License
