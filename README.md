@@ -44,7 +44,7 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 |----------|-----------|-------------|--------|
 | Triwalkma Versio | onoma2 | Three independent loopers | [GitHub](https://github.com/onoma2/TriwalkmaVersio) |
 | Reticulum Versio | - | Asynchronous delay/looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=280196) |
-| Praetereo | - | Delayed looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=276033) |
+| Praetereo | Negative Theology | Drifting (delayed) looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=276033) [Video](https://youtu.be/O1Q49RmoEiI?si=Sau_Ts6unt3-E5K7)|
 | Repetit Versio | - | Looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=261413) |
 
 ### Synthesis and Sequencing
