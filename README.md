@@ -76,7 +76,7 @@ To add or update firmware information, please submit a pull request with:
 Please maintain the existing format and include all relevant information in the tables.
 
 ## Resources
-- [Noise Engineering Official Site](https://noiseengineering.us)
+- [Noise Engineering Official Site](https://noiseengineering.us/pages/world-of-versio/)
 - [Versio Development Documentation](https://noiseengineering.us/pages/versio-architecture)
 - [Versio Development Guide](https://noiseengineering.us/pages/versio-dev-guide)
 
