@@ -77,7 +77,7 @@ Please maintain the existing format and include all relevant information in the 
 
 ## Resources
 - [Noise Engineering Official Site](https://noiseengineering.us/pages/world-of-versio/)
-- [Versio Development Documentation](https://noiseengineering.us/pages/versio-architecture)
+- [Versio Development Documentation](https://noiseengineering.us/blogs/loquelic-literitas-the-blog/create-your-own-firmware-on-a-versio-module/)
 - [Versio Development Guide](https://noiseengineering.us/pages/versio-dev-guide)
 
 ## License
