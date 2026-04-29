@@ -40,6 +40,8 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 | Megatron Versio | joel.gilardini | Monotron-inspired delay | [Download](https://drive.google.com/file/d/13n_zqj1rz1h7niZOHWAtqhraHCXs4_jb/view?usp=share_link) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282911) |
 | Campestria Versio | - | Reverb | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282590) |
 | Multi Versio | FluffyAudio | Multi-effects processor | [Download](https://www.dropbox.com/s/9z1dyfbwr44ngku/MultiEffect_0.2.bin?dl=0) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=249058) |
+| WTF! | DUB-Russell | Granular / beat-repeat stereo FX with three modes (granular, repeat, cloud) and ~90s buffer | [Site](https://2020.dubrussell.com/resources/wtf/) |
+| Pyros Versio | Audiority | Multi-mode stereo distortion (9 modes) with pre-LPF, post-HPF, bias, bipolar feedback, and radio mode | [Site](https://www.audiority.com/shop/pyros-versio/) |
 
 ### Loopers and Delays
 | Firmware | Developer | Description | Links |
@@ -48,6 +50,7 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 | Reticulum Versio | - | Asynchronous delay/looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=280196) |
 | Praetereo | Negative Theology | Drifting (delayed) looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=276033) [Video](https://youtu.be/O1Q49RmoEiI?si=Sau_Ts6unt3-E5K7)|
 | Repetit Versio | - | Looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=261413) |
+| CRCLTR | s3g | Dual stereo looper (loop 1 seamless crossfade, loop 2 click-avoid fades) built with Max/Gen + Oopsy | [GitHub](https://github.com/s3g/crcltr) |
 
 ### Synthesis and Sequencing
 | Firmware | Developer | Description | Links |
