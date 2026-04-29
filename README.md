@@ -33,36 +33,36 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 ## Versio Third-Party Firmware
 
 ### Effects and Processing
-| Firmware | Developer | Description | Links |
-|----------|-----------|-------------|--------|
-| Filterbank | ericxgao | Filter bank processor | [Docs](https://www.reddit.com/r/modular/comments/1gx2rsg/try_a_filterbank_versio_firmware/) • [Download](https://drive.google.com/drive/folders/1TymSYNRyQrrKOXaNKrDPh3e37AdEoyjc?usp=drive_link) |
-| Tapeo Versio | onoma2 | Distorted echo effect | [GitHub](https://github.com/onoma2/TapeoVersio) |
-| Megatron Versio | joel.gilardini | Monotron-inspired delay | [Download](https://drive.google.com/file/d/13n_zqj1rz1h7niZOHWAtqhraHCXs4_jb/view?usp=share_link) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282911) |
-| Campestria Versio | - | Reverb | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282590) |
-| Multi Versio | FluffyAudio | Multi-effects processor | [Download](https://www.dropbox.com/s/9z1dyfbwr44ngku/MultiEffect_0.2.bin?dl=0) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=249058) |
-| WTF! | DUB-Russell | Granular / beat-repeat stereo FX with three modes (granular, repeat, cloud) and ~90s buffer | [Site](https://2020.dubrussell.com/resources/wtf/) |
-| Pyros Versio | Audiority | Multi-mode stereo distortion (9 modes) with pre-LPF, post-HPF, bias, bipolar feedback, and radio mode | [Site](https://www.audiority.com/shop/pyros-versio/) |
+| Firmware | Developer | Description | Last updated | Links |
+|----------|-----------|-------------|--------------|--------|
+| Filterbank | ericxgao | Filter bank processor | - | [Docs](https://www.reddit.com/r/modular/comments/1gx2rsg/try_a_filterbank_versio_firmware/) • [Download](https://drive.google.com/drive/folders/1TymSYNRyQrrKOXaNKrDPh3e37AdEoyjc?usp=drive_link) |
+| Tapeo Versio | onoma2 | Distorted echo effect | Oct 2021 | [GitHub](https://github.com/onoma2/TapeoVersio) |
+| Megatron Versio | joel.gilardini | Monotron-inspired delay | - | [Download](https://drive.google.com/file/d/13n_zqj1rz1h7niZOHWAtqhraHCXs4_jb/view?usp=share_link) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282911) |
+| Campestria Versio | - | Reverb | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282590) |
+| Multi Versio | FluffyAudio | Multi-effects processor | - | [Download](https://www.dropbox.com/s/9z1dyfbwr44ngku/MultiEffect_0.2.bin?dl=0) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=249058) |
+| WTF! | DUB-Russell | Granular / beat-repeat stereo FX with three modes (granular, repeat, cloud) and ~90s buffer | Apr 2026 | [Site](https://2020.dubrussell.com/resources/wtf/) |
+| Pyros Versio | Audiority | Multi-mode stereo distortion (9 modes) with pre-LPF, post-HPF, bias, bipolar feedback, and radio mode | Apr 2026 | [Site](https://www.audiority.com/shop/pyros-versio/) |
 
 ### Loopers and Delays
-| Firmware | Developer | Description | Links |
-|----------|-----------|-------------|--------|
-| Triwalkma Versio | onoma2 | Three independent loopers | [GitHub](https://github.com/onoma2/TriwalkmaVersio) |
-| Reticulum Versio | - | Asynchronous delay/looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=280196) |
-| Praetereo | Negative Theology | Drifting (delayed) looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=276033) [Video](https://youtu.be/O1Q49RmoEiI?si=Sau_Ts6unt3-E5K7)|
-| Repetit Versio | - | Looper | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=261413) |
-| CRCLTR | s3g | Dual stereo looper (loop 1 seamless crossfade, loop 2 click-avoid fades) built with Max/Gen + Oopsy | [GitHub](https://github.com/s3g/crcltr) |
+| Firmware | Developer | Description | Last updated | Links |
+|----------|-----------|-------------|--------------|--------|
+| Triwalkma Versio | onoma2 | Three independent loopers | Oct 2021 | [GitHub](https://github.com/onoma2/TriwalkmaVersio) |
+| Reticulum Versio | - | Asynchronous delay/looper | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=280196) |
+| Praetereo | Negative Theology | Drifting (delayed) looper | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=276033) [Video](https://youtu.be/O1Q49RmoEiI?si=Sau_Ts6unt3-E5K7)|
+| Repetit Versio | - | Looper | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=261413) |
+| CRCLTR | s3g | Dual stereo looper (loop 1 seamless crossfade, loop 2 click-avoid fades) built with Max/Gen + Oopsy | Jan 2024 | [GitHub](https://github.com/s3g/crcltr) |
 
 ### Synthesis and Sequencing
-| Firmware | Developer | Description | Links |
-|----------|-----------|-------------|--------|
-| Rings Versio | ericxgao | Port of Mutable Instruments Rings | [Download](https://drive.google.com/drive/folders/1Reuhyh5iviwuRQ8M9sMCcs2WmEftjPLU?usp=sharing) |
-| Acidus Versio | - | 303-style synth voice | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=284269) |
-| Proteus Versio | - | Generative sequencer/synth | [Discussion](https://modwiggler.com/forum/viewtopic.php?p=3831200#p3831200) |
+| Firmware | Developer | Description | Last updated | Links |
+|----------|-----------|-------------|--------------|--------|
+| Rings Versio | ericxgao | Port of Mutable Instruments Rings | - | [Download](https://drive.google.com/drive/folders/1Reuhyh5iviwuRQ8M9sMCcs2WmEftjPLU?usp=sharing) |
+| Acidus Versio | - | 303-style synth voice | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=284269) |
+| Proteus Versio | - | Generative sequencer/synth | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?p=3831200#p3831200) |
 
 ### Drums and Percussion
-| Firmware | Developer | Description | Links |
-|----------|-----------|-------------|--------|
-| Stray Drum | Jasmine & Olive Trees | Drum synthesis firmware | [Official Site](https://jasmineandolivetrees.com/pages/stray-drum-versio-firmware) |
+| Firmware | Developer | Description | Last updated | Links |
+|----------|-----------|-------------|--------------|--------|
+| Stray Drum | Jasmine & Olive Trees | Drum synthesis firmware | - | [Official Site](https://jasmineandolivetrees.com/pages/stray-drum-versio-firmware) |
 
 ## Installation Guide
 1. Download the desired firmware file (`.bin` format)
