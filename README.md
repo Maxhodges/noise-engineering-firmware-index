@@ -22,6 +22,8 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 | Ampla Versio | Dynamics | Voltage-controlled amplifier and distortion with dynamics control |
 | Desmodus Versio | Reverb | Atmospheric reverb with a haunting, otherworldly character |
 | Electus Versio | Reverb | Reverse reverb with experimental ambient textures |
+| Fala Versio | Filter | Stereo formant filter with wavefolding, saturation, and a clockable stereo LFO |
+| Granulita Versio | Granular | Stereo granular chord generator and resynthesizer with built-in reverb |
 | Imitor Versio | Delay | Multitap delay with up to 12 customizable delay lines |
 | Lacrima Versio | Filter | Stereo resonant filter with dynamic modulation and phaser effects |
 | Melotus Versio | Granular | Granular processor for time-stretching and stuttering sounds |
@@ -84,4 +86,4 @@ Please maintain the existing format and include all relevant information in the 
 MIT License
 
 ---
-*Last updated: November 2024*
+*Last updated: April 2026*
