@@ -42,6 +42,8 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 | Multi Versio | FluffyAudio | Multi-effects processor | - | [Download](https://www.dropbox.com/s/9z1dyfbwr44ngku/MultiEffect_0.2.bin?dl=0) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=249058) |
 | WTF! | DUB-Russell | Granular / beat-repeat stereo FX with three modes (granular, repeat, cloud) and ~90s buffer | Apr 2026 | [Site](https://2020.dubrussell.com/resources/wtf/) |
 | Pyros Versio | Audiority | Multi-mode stereo distortion (9 modes) with pre-LPF, post-HPF, bias, bipolar feedback, and radio mode | Apr 2026 | [Site](https://www.audiority.com/shop/pyros-versio/) |
+| FRGMNTS Versio | Acidclank | Live-focused multi-effect hosting four curated effects (glitch/fragment, tape, WASH delay, reverb) | May 2026 | [Gumroad](https://acidclank.gumroad.com/l/frgmntsversio) • [Video](https://www.youtube.com/watch?v=A62Lc0bWYQc) |
+| VNY404 Versio | Acidclank | Lo-fi vinyl/cassette simulator (Roland SP-404-inspired) with wow & flutter pitch fluctuation and a compressor with trigger-in ducking | Jun 2026 | [Gumroad](https://acidclank.gumroad.com/l/VNY404) • [Video](https://www.youtube.com/watch?v=BCmB9jIeeHA) |
 
 ### Loopers and Delays
 | Firmware | Developer | Description | Last updated | Links |
@@ -89,4 +91,4 @@ Please maintain the existing format and include all relevant information in the 
 MIT License
 
 ---
-*Last updated: April 2026*
+*Last updated: June 2026*
