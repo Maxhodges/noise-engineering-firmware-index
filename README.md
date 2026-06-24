@@ -33,17 +33,19 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 ## Versio Third-Party Firmware
 
 ### Effects and Processing
-| Firmware | Developer | Description | Last updated | Links |
-|----------|-----------|-------------|--------------|--------|
-| Filterbank | ericxgao | Filter bank processor | - | [Docs](https://www.reddit.com/r/modular/comments/1gx2rsg/try_a_filterbank_versio_firmware/) • [Download](https://drive.google.com/drive/folders/1TymSYNRyQrrKOXaNKrDPh3e37AdEoyjc?usp=drive_link) |
-| Tapeo Versio | onoma2 | Distorted echo effect | Oct 2021 | [GitHub](https://github.com/onoma2/TapeoVersio) |
-| Megatron Versio | joel.gilardini | Monotron-inspired delay | - | [Download](https://drive.google.com/file/d/13n_zqj1rz1h7niZOHWAtqhraHCXs4_jb/view?usp=share_link) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282911) |
-| Campestria Versio | - | Reverb | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282590) |
-| Multi Versio | FluffyAudio | Multi-effects processor | - | [Download](https://www.dropbox.com/s/9z1dyfbwr44ngku/MultiEffect_0.2.bin?dl=0) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=249058) |
-| WTF! | DUB-Russell | Granular / beat-repeat stereo FX with three modes (granular, repeat, cloud) and ~90s buffer | Apr 2026 | [Site](https://2020.dubrussell.com/resources/wtf/) |
-| Pyros Versio | Audiority | Multi-mode stereo distortion (9 modes) with pre-LPF, post-HPF, bias, bipolar feedback, and radio mode | Apr 2026 | [Site](https://www.audiority.com/shop/pyros-versio/) |
-| FRGMNTS Versio | Acidclank | Live-focused multi-effect hosting four curated effects (glitch/fragment, tape, WASH delay, reverb) | May 2026 | [Gumroad](https://acidclank.gumroad.com/l/frgmntsversio) • [Video](https://www.youtube.com/watch?v=A62Lc0bWYQc) |
-| VNY404 Versio | Acidclank | Lo-fi vinyl/cassette simulator (Roland SP-404-inspired) with wow & flutter pitch fluctuation and a compressor with trigger-in ducking | Jun 2026 | [Gumroad](https://acidclank.gumroad.com/l/VNY404) • [Video](https://www.youtube.com/watch?v=BCmB9jIeeHA) |
+
+| Firmware          | Developer      | Description                                                                                                                           | Last updated | Links                                                                                                                                                                                             |
+| ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cithara Versio    | TricksterSam   | Microtonal sympathetic string resonator. Morph resonance from a piano sound board to a double bass to a timpani to a long tube.       | Jun 2026     | [Download](https://github.com/TricksterSam/CitharaVersio/releases/tag/tag) • [Manual](https://github.com/TricksterSam/CitharaVersio/blob/main/CitharaVersioManual.pdf)                            |
+| Filterbank        | ericxgao       | Filter bank processor                                                                                                                 | -            | [Docs](https://www.reddit.com/r/modular/comments/1gx2rsg/try_a_filterbank_versio_firmware/) • [Download](https://drive.google.com/drive/folders/1TymSYNRyQrrKOXaNKrDPh3e37AdEoyjc?usp=drive_link) |
+| Tapeo Versio      | onoma2         | Distorted echo effect                                                                                                                 | Oct 2021     | [GitHub](https://github.com/onoma2/TapeoVersio)                                                                                                                                                   |
+| Megatron Versio   | joel.gilardini | Monotron-inspired delay                                                                                                               | -            | [Download](https://drive.google.com/file/d/13n_zqj1rz1h7niZOHWAtqhraHCXs4_jb/view?usp=share_link) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282911)                             |
+| Campestria Versio | -              | Reverb                                                                                                                                | -            | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=282590)                                                                                                                                 |
+| Multi Versio      | FluffyAudio    | Multi-effects processor                                                                                                               | -            | [Download](https://www.dropbox.com/s/9z1dyfbwr44ngku/MultiEffect_0.2.bin?dl=0) • [Discussion](https://modwiggler.com/forum/viewtopic.php?t=249058)                                                |
+| WTF!              | DUB-Russell    | Granular / beat-repeat stereo FX with three modes (granular, repeat, cloud) and ~90s buffer                                           | Apr 2026     | [Site](https://2020.dubrussell.com/resources/wtf/)                                                                                                                                                |
+| Pyros Versio      | Audiority      | Multi-mode stereo distortion (9 modes) with pre-LPF, post-HPF, bias, bipolar feedback, and radio mode                                 | Apr 2026     | [Site](https://www.audiority.com/shop/pyros-versio/)                                                                                                                                              |
+| FRGMNTS Versio    | Acidclank      | Live-focused multi-effect hosting four curated effects (glitch/fragment, tape, WASH delay, reverb)                                    | May 2026     | [Gumroad](https://acidclank.gumroad.com/l/frgmntsversio) • [Video](https://www.youtube.com/watch?v=A62Lc0bWYQc)                                                                                   |
+| VNY404 Versio     | Acidclank      | Lo-fi vinyl/cassette simulator (Roland SP-404-inspired) with wow & flutter pitch fluctuation and a compressor with trigger-in ducking | Jun 2026     | [Gumroad](https://acidclank.gumroad.com/l/VNY404) • [Video](https://www.youtube.com/watch?v=BCmB9jIeeHA)                                                                                          |
 
 ### Loopers and Delays
 | Firmware | Developer | Description | Last updated | Links |
@@ -68,8 +70,10 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 
 ## Installation Guide
 1. Download the desired firmware file (`.bin` format)
-2. Follow Noise Engineering's [firmware update guide](https://noiseengineering.us/pages/updating-firmware)
+2. Follow Noise Engineering's [firmware update guide](https://noiseengineering.us/portal/firmware/)
 3. Power cycle your module after installation
+
+Some firmwares may require a different bootloader. Follow the guide at [flash.daisy.audio](https://flash.daisy.audio/) for Cithara Versio and other firmwares that will not install through Noise Engineering's firmware updater.
 
 ## Contributing
 To add or update firmware information, please submit a pull request with:
