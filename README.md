@@ -55,6 +55,7 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 | Praetereo | Negative Theology | Drifting (delayed) looper | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=276033) [Video](https://youtu.be/O1Q49RmoEiI?si=Sau_Ts6unt3-E5K7)|
 | Repetit Versio | - | Looper | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=261413) |
 | CRCLTR | s3g | Dual stereo looper (loop 1 seamless crossfade, loop 2 click-avoid fades) built with Max/Gen + Oopsy | Jan 2024 | [GitHub](https://github.com/s3g/crcltr) |
+| Smack Versio | timncox | Loop-glitch. Hold to capture the last 8-256 steps of what you just played; a seed then decides how the loop is sliced, how the slices are reordered, and which of them get one of 26 effects. Momentary effect punch, DJ filter, and a dual mode that glitches L and R independently. Installs from NE's own firmware updater | Aug 2026 | [GitHub](https://github.com/timncox/smack-versio) • [Manual](https://timncox.github.io/smack-versio) • [Download](https://github.com/timncox/smack-versio/releases/latest) |
 
 ### Synthesis and Sequencing
 | Firmware | Developer | Description | Last updated | Links |
