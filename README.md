@@ -46,6 +46,9 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 | Pyros Versio      | Audiority      | Multi-mode stereo distortion (9 modes) with pre-LPF, post-HPF, bias, bipolar feedback, and radio mode                                 | Apr 2026     | [Site](https://www.audiority.com/shop/pyros-versio/)                                                                                                                                              |
 | FRGMNTS Versio    | Acidclank      | Live-focused multi-effect hosting four curated effects (glitch/fragment, tape, WASH delay, reverb)                                    | May 2026     | [Gumroad](https://acidclank.gumroad.com/l/frgmntsversio) • [Video](https://www.youtube.com/watch?v=A62Lc0bWYQc)                                                                                   |
 | VNY404 Versio     | Acidclank      | Lo-fi vinyl/cassette simulator (Roland SP-404-inspired) with wow & flutter pitch fluctuation and a compressor with trigger-in ducking | Jun 2026     | [Gumroad](https://acidclank.gumroad.com/l/VNY404) • [Video](https://www.youtube.com/watch?v=BCmB9jIeeHA)                                                                                          |
+| Pleroma | Recursive Field Instruments | Reverb with adjustable near and far wall distances, three diffusion modes, freeze, and modulation | Oct 2026 | [Site / Download](https://recursivefieldinstruments.com/pleroma) |
+| Resilio Versio | Jesse Bauer | Dub-style spring reverb with tape echo and clean, tape, or valve coloration | - | [GitHub](https://github.com/jeffebauer/resilio-versio) • [Site / Download](https://resilio-versio.vercel.app/) |
+| Capicola Versio | Tim Cox / Heavy Light Industries | Keyframe time-stretcher, pitch-shifter, and transient-driven granular auto-slicer. Experimental: not yet tested on Versio hardware; build from source required | - | [GitHub](https://github.com/timncox/capicola-versio) |
 
 ### Loopers and Delays
 | Firmware | Developer | Description | Last updated | Links |
@@ -55,6 +58,9 @@ The Versio platform is a line of stereo DSP modules with interchangeable firmwar
 | Praetereo | Negative Theology | Drifting (delayed) looper | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=276033) [Video](https://youtu.be/O1Q49RmoEiI?si=Sau_Ts6unt3-E5K7)|
 | Repetit Versio | - | Looper | - | [Discussion](https://modwiggler.com/forum/viewtopic.php?t=261413) |
 | CRCLTR | s3g | Dual stereo looper (loop 1 seamless crossfade, loop 2 click-avoid fades) built with Max/Gen + Oopsy | Jan 2024 | [GitHub](https://github.com/s3g/crcltr) |
+| The Archivist | Detuned Transmissions (jhockman) | Granular and tape memory looper with tape emulation, sound capture, and granular processing | - | [GitHub / Download / Manual](https://github.com/jhockman/the-archivist) |
+| Iterum Versio | Alessandro Capano | Clockable stereo delay with multiple routing options, reverse, and freeze | - | [GitHub](https://github.com/alexain/iterum-versio) |
+| Smack Versio | Tim Cox | Live loop capture with slice reordering and per-slice glitch effects. Experimental: not yet tested on hardware | - | [GitHub](https://github.com/timncox/smack-versio) |
 
 ### Synthesis and Sequencing
 | Firmware | Developer | Description | Last updated | Links |
